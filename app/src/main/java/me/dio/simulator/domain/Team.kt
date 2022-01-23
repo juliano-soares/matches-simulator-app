@@ -8,7 +8,7 @@ import kotlinx.parcelize.Parcelize
 data class Team(
     @SerializedName("nome")
     val name: String,
-    @SerializedName("forca")
+    @SerializedName("estrelas")
     val stars: Int,
     @SerializedName("imagem")
     val image: String,

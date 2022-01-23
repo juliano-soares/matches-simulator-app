@@ -8,7 +8,7 @@ import me.dio.simulator.domain.Match
 
 class DetailActivity : AppCompatActivity() {
     object Extras {
-        const val MATCH = "EXTRA_MATCH";
+        const val MATCH = "EXTRA_MATCH"
     }
 
     private lateinit var binding: ActivityDetailBinding

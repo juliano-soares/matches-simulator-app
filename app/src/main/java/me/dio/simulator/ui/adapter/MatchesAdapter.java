@@ -3,7 +3,6 @@ package me.dio.simulator.ui.adapter;
 import android.content.Context;
 import android.content.Intent;
 import android.view.LayoutInflater;
-import android.view.View;
 import android.view.ViewGroup;
 
 import androidx.annotation.NonNull;
@@ -19,7 +18,7 @@ import me.dio.simulator.ui.DetailActivity;
 
 public class MatchesAdapter extends RecyclerView.Adapter<MatchesAdapter.ViewHolder> {
 
-    private List<Match> matches;
+    private final List<Match> matches;
 
     public MatchesAdapter(List<Match> matches) {
         this.matches = matches;
