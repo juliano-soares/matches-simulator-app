@@ -1,16 +1,8 @@
 # Matches Simulator App
 
-### Próximos desafios:
-    - Persistência de dados locais com Room;
-    - Boas Práticas e Arquiteturas Recomendadas;
-    - Reduzir, ofuscar e otimiza Apps;
-    - Publicação de Apps;
-
 App Android Nativo de Simulação de Partidas. Este repositório foi organizado em algumas branches que representam as implementações realizadas durante os seguintes conteúdos/vídeos:
 
 1. Desenvolvimento Mobile Native Para Android
     - [release/desenvolvimento-mobile-nativo-para-android](https://github.com/juliano-soares/matches-simulator-app/tree/release/desenvolvimento-mobile-nativo-para-android)
-2. Componentes, Layouts e UI/UX Em Apps Android
-    - [release/componentes-layouts-ui-ux-em-apps-android](https://github.com/juliano-soares/matches-simulator-app/tree/release/componentes-layouts-ui-ux-em-apps-android)
 2. Componentes, Layouts e UI/UX Em Apps Android
     - [release/componentes-layouts-ui-ux-em-apps-android](https://github.com/juliano-soares/matches-simulator-app/tree/release/componentes-layouts-ui-ux-em-apps-android)
